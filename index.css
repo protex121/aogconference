@@ -30,7 +30,7 @@
 .Background {
 	position: absolute;
 	overflow: visible;
-	width: 414px;
+	width: auto;
 	height: 896px;
 	left: 0px;
 	top: 0px;
