@@ -1,8 +1,6 @@
 .mediaViewInfo {
 	--web-view-name: Step 1 - Payment Method;
 	--web-view-id: Step_1_-_Payment_Method;
-	--web-scale-to-fit: true;
-	--web-scale-to-fit-type: fit;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
@@ -23,8 +21,6 @@
 	overflow: hidden;
 	--web-view-name: Step 1 - Payment Method;
 	--web-view-id: Step_1_-_Payment_Method;
-	--web-scale-to-fit: true;
-	--web-scale-to-fit-type: fit;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
