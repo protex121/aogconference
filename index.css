@@ -1,8 +1,6 @@
 .mediaViewInfo {
 	--web-view-name: Step 0 - Registration;
 	--web-view-id: Step_0_-_Registration;
-	--web-scale-to-fit: true;
-	--web-scale-to-fit-type: fit;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
